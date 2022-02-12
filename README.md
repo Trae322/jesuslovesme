@@ -1,0 +1,92 @@
+![Screenshot_2021-03-19-21-50-12-12](https://user-images.githubusercontent.com/75029023/111818303-fc005500-8919-11eb-9726-951b4697dc64.jpg)
+
+### ༒︎᯾𝐌𝐫.𝐏𝐡𝐢𝐬𝐡᯾༒︎
+
+### ✰ABOUT TOOL✰ :  
+> mrphish is a bash based script which is officially made for phish*ng social media accounts with portforwarding and otp bypassing cntrole. This tool works on both rooted Android device and Non-rooted Android device.  
+
+### ✰AVAILABLE ON✰ :
+**`Termux`**
+  
+### ✰TESTED ON✰ :  
+**`Termux`**  
+
+### ✰REQUIREMENTS✰ :  
+**`internet 400`**  
+**`php`**  
+**`storage 600 MB`**  
+**`ngrok Token`**  
+
+### ✰FEATURES✰ :  
+> [+] 60+ uptodate pages !  
+> [+] Updated maintainence !  
+> [+] 1 Port Forwarding Option !  
+> [+] No link issues, timing !  
+> [+] 5+ categories in pages !  
+> [+] Easy for Beginners !  
+
+### ✰INSTALLATION [Termux]✰ : 
+``` 
+$ apt-get update -y  
+```
+```
+$ apt-get upgrade -y  
+```
+```
+$ pkg install python -y  
+```
+```
+$ pkg install python2 -y  
+```
+```
+$ pkg install git -y  
+```
+```
+$ pip install lolcat  
+```
+```
+$ git clone https://github.com/noob-hackers/mrphish  
+```
+```
+$ cd $HOME  
+```
+```
+$ ls  
+```
+```
+$ cd mrphish  
+```
+```
+$ ls  
+```
+```
+$ bash setup  
+```
+```
+$ bash mrphish  
+```
+
+> [+]-- Open new session in termux and type tor [+]-- Open second session in termux and execute mrphish tool   
+
+### ✰USAGE OPTIONS [Termux]✰ :  
+
+**`START ATTACK`** :  
+From this option you can start attack and explore available option in tool Type ok in next step.  
+
+**`DUMPS`** :  
+From this option you can get old saved dumps of all ids.  
+
+**`ABOUT`** :  
+From this option you can know more about author.  
+
+**`UPDATE`** :  
+From this option you can update mrphish tool if updates are available for that.
+
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of Mr.Phish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+<h3><b><i>📡 How to reach me :</i></b></h3>
+<p align="left">
+  <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
+  
